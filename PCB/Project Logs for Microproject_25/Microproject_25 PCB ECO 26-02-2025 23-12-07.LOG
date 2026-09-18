@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=U?-J2-14
+Added Pin To Net: NetName=PROTECTED_5V Pin=U?-J2-19
+Added Pin To Net: NetName=GND Pin=U?-J3-1
+Added Pin To Net: NetName=SCL Pin=U?-J3-3
+Added Pin To Net: NetName=SDA Pin=U?-J3-6
+Added Pin To Net: NetName=GND Pin=U?-J3-7
+Added Pin To Net: NetName=PWM_RB Pin=U?-J3-8
+Added Pin To Net: NetName=PWM_RF Pin=U?-J3-9
+Added Pin To Net: NetName=PWM_LF Pin=U?-J3-13
+Added Pin To Net: NetName=PWM_LB Pin=U?-J3-15
